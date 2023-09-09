@@ -1,5 +1,7 @@
 ### Hi there 👋
-I am in Gachon University in AI-Software deprtment learning coding
+I am in Gachon University in AI-Software deprtment learning coding.
+I'm currently learning how to use Github.
+How to reach me: 23eric@gachon.ac.kr (Gmail)
 <!--
 **c0910n/c0910n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
