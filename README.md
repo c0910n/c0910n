@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am in Gachon University in AI-Software deprtment learning coding
 <!--
 **c0910n/c0910n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
